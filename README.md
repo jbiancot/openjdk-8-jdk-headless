@@ -11,6 +11,6 @@ A more complete and standard Docker image containing:
 
 # Usage
 
-`docker run --name jbiancot_openJDK --rm -it -e HOME=/root --workdir=/root -t "jbiancot/openjdk-8-jdk-headless" su -`
+`docker run --name jbiancot_openJDK --rm -it -t "jbiancot/openjdk-8-jdk-headless" bash`
 
 Enjoy it !
