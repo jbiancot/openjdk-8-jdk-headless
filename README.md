@@ -1,4 +1,4 @@
-# A Docker image with Ubuntu, Java & Gradle
+# A Docker image with Ubuntu, Java (JDK) & Gradle
 
 **Updated: 26-September-2018**
 
